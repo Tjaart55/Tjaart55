@@ -2,11 +2,11 @@
 - 👋 Hi, I’m @Tjaart55
 - 👀 I’m interested in C#, C, Linux, Embedded Devices
 - 🌱 I’m currently learning Python and AWS
+- I am posting a some applications here to demonstrate my code style and skills.
 
 # C applications
  - [Get closest coordinate to given coordinates](https://github.com/Tjaart55/C_Get_Closest_Coords.git)
  - [Binary Gap](https://github.com/Tjaart55/BinaryGap.git)
-
 
 # C# Applications
 - [Binary Gap](https://github.com/Tjaart55/BinaryGap.git)
