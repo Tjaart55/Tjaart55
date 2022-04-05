@@ -9,7 +9,7 @@
  - [Binary Gap](https://github.com/Tjaart55/BinaryGap.git)
 
 # C# Applications
-- [Binary Gap](https://github.com/Tjaart55/BinaryGap.git)
+- [Binary Gap](https://github.com/Tjaart55/DemoProjects-Csharp.git)
 
 # Python Applications
 - [Binary Gap](https://github.com/Tjaart55/DemoProjects_Python.git)
