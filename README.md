@@ -5,12 +5,18 @@
 
 # C applications
 [Get closest coordinate to given coordinates](https://github.com/Tjaart55/C_Get_Closest_Coords.git)
+[Binary Gap](https://github.com/Tjaart55/BinaryGap.git)
 
 
 # C# Applications
+[Binary Gap](https://github.com/Tjaart55/BinaryGap.git)
+
+# Python Applications
+[Binary Gap](https://github.com/Tjaart55/BinaryGap.git)
 
 
-Python Applications
+
+
 
 - 📫 How to [reach me](https://tjsw.co.za)
 
