@@ -12,7 +12,7 @@
 - [Binary Gap](https://github.com/Tjaart55/BinaryGap.git)
 
 # Python Applications
-- [Binary Gap](https://github.com/Tjaart55/BinaryGap.git)
+- [Binary Gap](https://github.com/Tjaart55/DemoProjects_Python.git)
 
 
 
