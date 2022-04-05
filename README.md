@@ -5,8 +5,8 @@
 - I am posting some applications here to demonstrate my code style and skills. Some exercises are from [Codility](https://www.codility.com/). 
 
 # C applications
- - [Get closest coordinate to given coordinates](https://github.com/Tjaart55/C_Get_Closest_Coords.git)
- - [Binary Gap](https://github.com/Tjaart55/BinaryGap.git)
+ - [Get closest coordinate to given coordinates](https://github.com/Tjaart55/DemoProjects-C.git)
+ - [Binary Gap](https://github.com/Tjaart55/DemoProjects-C.git)
 
 # C# Applications
 - [Binary Gap](https://github.com/Tjaart55/DemoProjects-Csharp.git)
