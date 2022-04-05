@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @Tjaart55
 - 👀 I’m interested in C#, C, Linux, Embedded Devices
 - 🌱 I’m currently learning Python and AWS
-- I am posting a some applications here to demonstrate my code style and skills.
+- I am posting some applications here to demonstrate my code style and skills. Some exercises are from [Codility](https://www.codility.com/). 
 
 # C applications
  - [Get closest coordinate to given coordinates](https://github.com/Tjaart55/C_Get_Closest_Coords.git)
