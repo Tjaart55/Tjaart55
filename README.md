@@ -9,6 +9,7 @@
 I am posting some applications here to demonstrate my code style and skills. Some exercises are from [Codility](https://www.codility.com/). 
 
 ### C applications
+ - [Flashing a ZWAVE ZM5202 Soc over SPI via STM32L431](https://github.com/Tjaart55/zwave.git) 
  - [Get closest coordinate to a given set of coordinates](https://github.com/Tjaart55/DemoProjects-C.git)
  - [Binary Gap](https://github.com/Tjaart55/DemoProjects-C.git)
 
