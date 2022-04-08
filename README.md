@@ -21,7 +21,7 @@ I am posting some applications here to demonstrate my code style and skills. Som
 
 # Contact Me
 
-- 📫 How to [reach me](https://tjsw.co.za)
+- 📫 How to [reach me](tjs.swanepoel@gmail.com)
 
 <!---
 Tjaart55/Tjaart55 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
