@@ -14,6 +14,8 @@ I am posting some applications here to demonstrate my code style and skills. Som
  - [Binary Gap](https://github.com/Tjaart55/DemoProjects-C.git)
 
 ### C# Applications
+- [Gyro Cube 3D Data visual](https://github.com/Tjaart55/DemoProjects-Csharp.git)
+- [Serial Data Analyser](https://github.com/Tjaart55/DemoProjects-Csharp.git)
 - [Binary Gap](https://github.com/Tjaart55/DemoProjects-Csharp.git)
 
 ### Python Applications
