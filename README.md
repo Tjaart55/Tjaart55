@@ -1,5 +1,5 @@
 # WELCOME TO MY GITHUB PROJECT PAGE -- TJAART SWANEPOEL
-- 👋 Hi, I’m @Tjaart55
+- 👋 Hi, I’m Tjaart
 - 👀 I’m interested in C#, C, Linux, Embedded Devices
 - 🌱 I’m currently learning Python and AWS
 - I will update this page on a regular basis, please check in again for more.
