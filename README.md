@@ -1,4 +1,4 @@
-# WELCOME TO MY GITHUB PROJECT PAGE
+# WELCOME TO MY GITHUB PROJECT PAGE -- TJAART SWANEPOEL
 - 👋 Hi, I’m @Tjaart55
 - 👀 I’m interested in C#, C, Linux, Embedded Devices
 - 🌱 I’m currently learning Python and AWS
@@ -26,6 +26,7 @@ I am posting some applications here to demonstrate my code style and skills. Som
 # Contact Me
 
 - 📫 How to [reach me](tjs.swanepoel@gmail.com)
+- Please visit my [web page](https://tjsw.co.za/)
 
 <!---
 Tjaart55/Tjaart55 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
