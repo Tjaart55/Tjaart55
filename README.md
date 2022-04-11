@@ -21,7 +21,7 @@ I am posting some applications here to demonstrate my code style and skills. Som
 ### Python Applications
 - [Binary Gap](https://github.com/Tjaart55/DemoProjects_Python.git)
 
-###Videos
+### Videos
 - [Profile](https://youtu.be/dQmrBmqwTiQ)
 - [2D Graphics](https://youtu.be/H3IljpnrgXU)
 - [3D Graphics](https://youtu.be/YwQEI-VfYTQ)
