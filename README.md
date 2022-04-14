@@ -21,6 +21,9 @@ I am posting some applications here to demonstrate my code style and skills. Som
 ### Python Applications
 - [Binary Gap](https://github.com/Tjaart55/DemoProjects_Python.git)
 
+## Web and IoT
+- [Mqtt and HTTP Post demo](https://script.google.com/macros/s/AKfycbxLPwPLtVVFgAj35-gEGScF-xFw7aoaO_raY_GK2l2pY5cE9L6QAkQNOWvXVrxCuYGwLw/exec)
+
 ### Videos
 - [Profile](https://youtu.be/dQmrBmqwTiQ)
 - [2D Graphics](https://youtu.be/H3IljpnrgXU)
