@@ -22,7 +22,7 @@ I am posting some applications here to demonstrate my code style and skills. Som
 - [Binary Gap](https://github.com/Tjaart55/DemoProjects_Python.git)
 
 ### Web and IoT
-- [Mqtt and HTTP Post demo](https://script.google.com/macros/s/AKfycbx_opn1vJUTa37QWmFow74NHKe3hohUaTpblN-dX0XdZ9J_OLLhZcJdIZ2dIE4lKyzS_A/exec)
+- [Mqtt and HTTP Post demo](https://script.google.com/macros/s/AKfycbzhTIT8eIWuQWjHAf-0O6SJkNhR558FcI1lAeSsUryQm1q4aZN_RPlkBtOL-QCrS6Wotg/exec)
 
 ### Videos
 - [Profile](https://youtu.be/dQmrBmqwTiQ)
