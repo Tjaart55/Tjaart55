@@ -1,7 +1,7 @@
 # WELCOME TO MY GITHUB PROJECT PAGE -- TJAART SWANEPOEL
 - 👋 Hi, I’m Tjaart
 - 👀 I’m interested in C#, C, Linux, and Embedded Devices
-- 🌱 I’m currently learning AWS
+- 🌱 I’m currently learning ...
 - I will update this page on a regular basis, please check in again for more
 
 
@@ -22,7 +22,7 @@ I am posting some applications here to demonstrate my code style and skills. Som
 - [Binary Gap](https://github.com/Tjaart55/DemoProjects_Python.git)
 
 ### Web and IoT
-- [Mqtt and HTTP Post demo](https://script.google.com/macros/s/AKfycbycUTuhwhwjn-36DI-b7ZijzL5URS537GhSwceoZ9AxKMmtopkIU088xYbGR_KzeShI/exec)
+- [Mqtt and HTTP Post demo](https://script.google.com/macros/s/AKfycbxz0WRjWCjWObDn9kSrUI-UtLbvr-Rk9AUrykm17KIkdBw9iQrtrw1MPqFfEHJQemzM/exec)
 
 ### Videos
 - [Profile](https://youtu.be/dQmrBmqwTiQ)
