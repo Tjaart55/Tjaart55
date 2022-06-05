@@ -6,7 +6,18 @@
 
 
 # Demo
-I am posting some applications here to demonstrate my code style and skills. Some exercises are from [Codility](https://www.codility.com/). 
+I am posting content here to demonstrate some of my skills and abilities.  
+
+
+### Embedded Linux
+ - I am able to deliver complex applications that run on Linux
+ - I am familiar with writing and maintaining code in the Qt IDE
+ - I am confident in developing cross-platform UI applications with [C# monodevelop](https://www.monodevelop.com/)
+ - I am confident in working with the Raspberry Pi Lite OS on the Raspberry PI and Rapberry Pi compute hardware platforms 
+ - I also have experience working with the following Linux harware platforms:
+      - [Friendly Arm User Manual](https://drive.google.com/file/d/1oycAqawBP5LXR2k4kznN_pqpRAKSmaE2/view?usp=sharing)
+      - [SAMA5AD3](https://drive.google.com/file/d/1eLe5A3R8QMKqDcHl8vZGrN2RFSmSkYRA/view?usp=sharing)
+
 
 ### C applications
  - [Programming Flash & NVR of a ZWAVE ZM5202 module over SPI via STM32L431](https://github.com/Tjaart55/zwave.git) 
