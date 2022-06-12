@@ -33,6 +33,7 @@ I am posting content here to demonstrate some of my skills and abilities.
 - [Binary Gap](https://github.com/Tjaart55/DemoProjects_Python.git)
 
 ### Web and IoT
+I completed this demonstration to show my understanding of JS, HTML, MQTT, JSON, SVG, and POST/GET.  
 - [Mqtt and HTTP Post demo](https://script.google.com/macros/s/AKfycbxz0WRjWCjWObDn9kSrUI-UtLbvr-Rk9AUrykm17KIkdBw9iQrtrw1MPqFfEHJQemzM/exec)
 
 ### Videos
