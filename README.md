@@ -13,8 +13,8 @@ I am posting content here to demonstrate some of my skills and abilities.
  - I am able to deliver complex applications that run on Linux
  - I am familiar with writing and maintaining code in the Qt IDE
  - I am confident in developing cross-platform UI applications with [C# monodevelop](https://www.monodevelop.com/)
- - I am confident in working with the Raspberry Pi Lite OS on the Raspberry PI and Rapberry Pi compute hardware platforms 
- - I also have experience working with the following Linux harware platforms:
+ - I am confident in working with the Raspberry Pi Lite OS on the Raspberry PI and Raspberry Pi compute hardware platforms 
+ - I also have experience working with the following Linux hardware platforms:
       - [Friendly Arm User Manual](https://drive.google.com/file/d/1oycAqawBP5LXR2k4kznN_pqpRAKSmaE2/view?usp=sharing)
       - [SAMA5AD3](https://drive.google.com/file/d/1eLe5A3R8QMKqDcHl8vZGrN2RFSmSkYRA/view?usp=sharing)
 
