@@ -2,7 +2,7 @@
 - 👋 Hi, I’m Tjaart
 - 👀 I’m interested in C#, C, Linux, and Embedded Devices
 - 🌱 I’m currently learning more about product design...
-- I will update this page on a regular basis, please check in again for more
+- I will update this page on a regular basis, please check in again for more 
 
 
 # Demo
@@ -45,7 +45,7 @@ I completed this demonstration to show my understanding of JS, HTML, MQTT, JSON,
 # Contact Me
 
 - 📫 How to [reach me](tjs.swanepoel@gmail.com)
-- Please visit my [web page](https://tjsw.co.za/)
+- Please visit my [web page]([https://tjsw.co.za/](https://sites.google.com/view/tjaartportfolio/home))
 
 <!---
 Tjaart55/Tjaart55 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
