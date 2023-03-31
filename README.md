@@ -9,7 +9,7 @@
 I am posting content here to demonstrate some of my skills and abilities.  
 
 
-### Linux Single Board Computers (SBCs) 
+## Linux Single Board Computers (SBCs) 
  - I am able to deliver complex applications that run on Linux
  - I am familiar with writing and maintaining code in the Qt IDE
  - I am confident in developing cross-platform UI applications with [C# monodevelop](https://www.monodevelop.com/)
@@ -19,6 +19,7 @@ I am posting content here to demonstrate some of my skills and abilities.
       - [Raspberry Pi Compute](https://www.raspberrypi.com/products/compute-module-4/?variant=raspberry-pi-cm4001000)
       - Looking forward to gain more experience in this field e.g. Beagle Bone, Union Omega...
 
+## Code Examples
 
 ### C applications
  - [Programming Flash & NVR of a ZWAVE ZM5202 module over SPI via STM32L431](https://github.com/Tjaart55/zwave.git) 
@@ -56,6 +57,22 @@ I completed this demonstration to show my understanding of JS, HTML, MQTT, JSON,
 <!---
 Tjaart55/Tjaart55 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+
+The aim of this product was to:
+- Build in ZWAVE functionality into an existing project.  
+- The ZWAVE controller needed to programmed with a hex file from the chip manufacturer before the application could work. This needed to be added to our manufacturing process.
+- The ZWAVE application collected ZWAVE network information and controlled ZWAVE devices according commands coming from our product's phone application.
+
+ Demo Projects C#
+
+## BinGap.cs
+A project from Codility that instructs the programmer to find the number of consecutive 0's in a binary string given any intiger value. 
+
+## Gyro.xaml.cs
+A C# WPF application that receives stabalised/Fused XYZ Coordinate data from an embedded controller connected to a mpu9250 OR receives data from an Android app that outputs its sensor data over TCP/IP. 
+
+## SerialDataAnalyser.cs
+Is a tool I created for viewing and outputing serial data using COMCOM Virtual ports. The application can also be configured as a serial to MQTT bridge.  
 
 
 --->
