@@ -56,19 +56,13 @@ I completed this demonstration to show my understanding of JS, HTML, MQTT, JSON,
 
 # Projects
 
-## Yard Automation - Train Axle counter system
-
-## Level Crossing Diagnostics
-
-## Train authorisation 
-
-## ZWAVE Home automation
-
-## Alarm signal base station
-
-## Alarm signal transmitter
-
-## Mine Fleet tracking solution
+### Yard Automation - Train Axle counter system
+### Level Crossing Diagnostics
+### Train authorisation 
+### ZWAVE Home automation
+### Alarm signal base station
+### Alarm signal transmitter
+### Mine Fleet tracking solution
 
 
 # Contact Me
