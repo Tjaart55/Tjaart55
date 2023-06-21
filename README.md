@@ -47,12 +47,12 @@ I completed this demonstration to show my understanding of JS, HTML, MQTT, JSON,
       - [Friendly Arm User Manual](https://drive.google.com/file/d/1oycAqawBP5LXR2k4kznN_pqpRAKSmaE2/view?usp=sharing)
       - [SAMA5AD3](https://drive.google.com/file/d/1eLe5A3R8QMKqDcHl8vZGrN2RFSmSkYRA/view?usp=sharing)
       - [Raspberry Pi Compute](https://www.raspberrypi.com/products/compute-module-4/?variant=raspberry-pi-cm4001000)
-      - Looking forward to gain more experience in this field e.g. Beagle Bone, Union Omega...
+      - Looking forward to gaining more experience in this field e.g. Beagle Bone, Union Omega...
       
-## GIT and GITHUB 
+## GIT and GitHub 
 
-- Project and product tracking, planning and execution
-- Good background information of Systems Engineering and Agile methodologies
+- Project and product tracking, planning, and execution
+- Good background information on Systems Engineering and Agile methodologies
 
 # Projects
 
@@ -75,9 +75,9 @@ Tjaart55/Tjaart55 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 
 The aim of this product was to:
-- Build in ZWAVE functionality into an existing project.  
-- The ZWAVE controller needed to programmed with a hex file from the chip manufacturer before the application could work. This needed to be added to our manufacturing process.
-- The ZWAVE application collected ZWAVE network information and controlled ZWAVE devices according commands coming from our product's phone application.
+- Build ZWAVE functionality into an existing project.  
+- The ZWAVE controller needed to be programmed with a hex file from the chip manufacturer before the application could work. This needed to be added to our manufacturing process.
+- The ZWAVE application collected ZWAVE network information and controlled ZWAVE devices according to commands coming from our product's phone application.
 
 --->
 
