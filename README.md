@@ -62,7 +62,7 @@ I completed this demonstration to show my understanding of JS, HTML, MQTT, JSON,
 ### ZWAVE Home automation
 ### Alarm signal base station
 ### Alarm signal transmitter
-### Mine Fleet tracking solution
+### Mining fleet management solution
 
 
 # Contact Me
