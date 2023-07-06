@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 
-enum State { Z, SecondOne, None };
+enum STATE { Z, None };
 char mybigarr[10];
 
 
@@ -32,7 +32,7 @@ char * IntToBinString(int n, char *ptr)
  
 }
 
-int solution0(int N)
+int Solution(int N)
 {
     
     char arr[65];
@@ -42,7 +42,7 @@ int solution0(int N)
     int z = 0;
     int maxval = 0;
     
-    enum State state = None;
+    enum STATE state = None;
 
     for(int i=0;i<65;i++)
     {
