@@ -1,4 +1,4 @@
-# WELCOME TO MY GITHUB PROJECT PAGE -- TJAART SWANEPOEL
+# WELCOME TO MY GITHUB PROJECT PAGE
 - 👋 Hi, I’m Tjaart
 - 👀 I’m interested in C#, C, Linux, JS, IoT, and Embedded Devices
 - 🌱 I’m currently learning more about product design...
