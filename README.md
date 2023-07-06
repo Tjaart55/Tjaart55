@@ -9,6 +9,23 @@
 # Demo
 I am posting content here to demonstrate some of my skills and abilities.  
 
+## Code Examples
+
+### C applications
+- **BinGap.c**: A project from Codility that instructs the programmer to find the number of consecutive 0's in a binary string given any integer value. 
+- **Zm5202_Flash.c &.h:** Programming Flash & NVR of a ZWAVE ZM5202 module over SPI via STM32L431 
+- **Coords.c:** Obtain the closest coordinate from a given set of coordinates
+
+### C# Applications  
+
+- **BinGap.cs:** A project from Codility that instructs the programmer to find the number of consecutive 0's in a binary string given any integer value. 
+- **Gyro.xaml.cs:** A C# WPF application that receives stabalised/Fused XYZ Coordinate data from an embedded controller connected to a mpu9250 OR receives data from an Android app that outputs its sensor data over TCP/IP. 
+- **SerialDataAnalyser.cs:** Is a tool I created for viewing and outputting serial data using COMCOM Virtual ports. The application can also be configured as a serial to MQTT bridge.  
+
+### Python Applications
+- **BinGap.py:** A project from Codility that instructs the programmer to find the number of consecutive 0's in a binary string given any integer value. 
+
+
 ## Web and IoT
 I completed this demonstration to show my understanding of JS, HTML, MQTT, JSON, SVG, and POST/GET.  
 - [Mqtt and HTTP Post demo](https://script.google.com/macros/s/AKfycbxKKL5dipvyvXlYChkrXGTGLB1apzp-SbUMDdXZqYjSVsQPpMRNaxagVdMoDUoX5QEH/exec)
@@ -18,23 +35,6 @@ I completed this demonstration to show my understanding of JS, HTML, MQTT, JSON,
 - [Profile](https://youtu.be/dQmrBmqwTiQ)
 - [2D Graphics](https://youtu.be/H3IljpnrgXU)
 - [3D Graphics](https://youtu.be/YwQEI-VfYTQ)
-
-## Code Examples
-
-### C applications
-- **BinGap.c**: A project from Codility that instructs the programmer to find the number of consecutive 0's in a binary string given any intiger value. 
-- **Zm5202_Flash.c &.h:** Programming Flash & NVR of a ZWAVE ZM5202 module over SPI via STM32L431 
-- **Coords.c:** Obtain the closest coordinate from a given set of coordinates
-
-### C# Applications  
-
-- **BinGap.cs:** A project from Codility that instructs the programmer to find the number of consecutive 0's in a binary string given any intiger value. 
-- **Gyro.xaml.cs:** A C# WPF application that receives stabalised/Fused XYZ Coordinate data from an embedded controller connected to a mpu9250 OR receives data from an Android app that outputs its sensor data over TCP/IP. 
-- **SerialDataAnalyser.cs:** Is a tool I created for viewing and outputing serial data using COMCOM Virtual ports. The application can also be configured as a serial to MQTT bridge.  
-
-### Python Applications
-- **BinGap.py:** A project from Codility that instructs the programmer to find the number of consecutive 0's in a binary string given any intiger value. 
-
 
 # Other Skills
 
