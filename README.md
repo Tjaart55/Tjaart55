@@ -24,7 +24,7 @@ I completed this demonstration to show my understanding of JS, HTML, MQTT, JSON,
 ### C applications
 - **BinGap.c**: A project from Codility that instructs the programmer to find the number of consecutive 0's in a binary string given any intiger value. 
 - **Zm5202_Flash.c &.h:** Programming Flash & NVR of a ZWAVE ZM5202 module over SPI via STM32L431 
-- **Coords.c:** Get closest coordinate to a given set of coordinates  
+- **Coords.c:** Obtain the closest coordinate from a given set of coordinates
 
 ### C# Applications  
 
@@ -51,7 +51,7 @@ I completed this demonstration to show my understanding of JS, HTML, MQTT, JSON,
       
 ## GIT and GitHub 
 
-- Project and product tracking, planning, and execution
+- Project and product tracking, software backup, team software integration, automated software deployment, project and product planning, and project and product execution
 - Good background information on Systems Engineering and Agile methodologies
 
 # Projects
