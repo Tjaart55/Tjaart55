@@ -54,16 +54,6 @@ I completed this demonstration to show my understanding of JS, HTML, MQTT, JSON,
 - Project and product tracking, software backup, team software integration, automated software deployment, project and product planning, and project and product execution
 - Good background information on Systems Engineering and Agile methodologies
 
-# Projects
-
-### Yard Automation - Train Axle counter system
-### Level Crossing Diagnostics
-### Train authorisation 
-### ZWAVE Home automation
-### Alarm signal base station
-### Alarm signal transmitter
-### Mining fleet management solution
-
 
 # Contact Me
 
