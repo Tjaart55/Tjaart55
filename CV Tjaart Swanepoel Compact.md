@@ -1,20 +1,18 @@
-**Tjaart Swanepoel**
+# Tjaart Swanepoel
 
 **PERSONAL INFORMATION**
 
+**Email**: tjs.swanepoel@gmail.com  
 **Skype**: live: tjaart55  
 **Phone**: (+64) 210675101  
-**LinkedIn**: <http://www.linkedin.com/in/tjaart-swanepoel-tsw>  
-**Website**: <https://sites.google.com/view/tjaartportfolio/home>  
 **Residency status**: Australian Permanent Resident  
+[Website](<http://www.linkedin.com/in/tjaart-swanepoel-tsw> ) | [LinkedIn](<https://sites.google.com/view/tjaartportfolio/home>)  
 
-**ABOUT ME**
+## ABOUT ME 
 
-Experienced product developer with a strong background in engineering, hardware, and software. I have a clear, logical mind with a practical approach to problem-solving and a drive to see things through to
+Experienced product developer with a strong background in engineering, hardware, and software. I have a clear, logical mind with a practical approach to problem-solving and a drive to see things through to completion. I am eager to learn, I enjoy overcoming challenges, and I have a genuine interest in technology and engineering. I have a broad range of skills, from working with embedded hardware devices to developing server-side applications. I have gained valuable experience working with various departments including Repairs, Manufacturing, Engineering, Testing, and Support. I have experience working with both international and local teams. I am a friendly and considerate person with a positive can-do attitude who gets along easily with others. I am a proud husband and a proud father with two young daughters, and I enjoy spending quality time with my family and friends.
 
-completion. I am eager to learn, I enjoy overcoming challenges, and I have a genuine interest in technology and engineering. I have a broad range of skills, from working with embedded hardware devices to developing server-side applications. I have gained valuable experience working with various departments including Repairs, Manufacturing, Engineering, Testing, and Support. I have experience working with both international and local teams. I am a friendly and considerate person with a positive can-do attitude who gets along easily with others. I am a proud husband and a proud father with two young daughters, and I enjoy spending quality time with my family and friends.
-
-**EXPERIENCE**
+## EXPERIENCE
 
 **Software Engineer \| Bathurst Resources Limited** - Feb 2023 – present \| Westport, New Zealand
 
@@ -24,7 +22,7 @@ completion. I am eager to learn, I enjoy overcoming challenges, and I have a gen
 
 -   Development, maintenance, testing, documentation, customer support, and manufacturing support on a new and existing alarm signal receiver used to connect home alarm systems to private security companies. The receiver included a cellular communications module, ARM processor, Linux based single board computer and the complete solution included networking and touch screen functionality. The device outputs data in a specific serial data format to the connected private security company’s alarm monitor application.
 -   Development, maintenance, integration, and documentation on an existing RDC website hosted on the public network for security companies to manage, configure, control, update and get status information of their RDC products. Work included creating server and third-party mobile application interfaces for customers to interface with RDC’s hardware products. This involved PHP, JS, MYSQL, C\#, HTML, JSON, and GOOGLE actions.
--   C application and protocol development on an ARM 32-bit MCU based product that connects home alarm panels through RDC’s servers to an alarm receiver and facilitates mobile application alarm control, alarm status, and home automation functionality.
+-   C application and protocol development on an ARM 32-bit MCU-based product that connects home alarm panels through RDC’s servers to an alarm receiver and facilitates mobile application alarm control, alarm status, and home automation functionality.
 
 **Development Engineer \| Actom Signalling** - March 2012 to Dec 2018 \| Germiston, South Africa
 
@@ -50,7 +48,7 @@ completion. I am eager to learn, I enjoy overcoming challenges, and I have a gen
 -   Installation and calibration of water flow meters, pressure sensors, and temperature sensors
 -   Verification of flow meters
 
-**EDUCATION, REGISTRATION AND QUALIFICATIONS**
+## EDUCATION, REGISTRATION AND QUALIFICATIONS
 
 2010 \| **Uncertainty of Measurement** \| CMETSA
 
@@ -66,7 +64,7 @@ completion. I am eager to learn, I enjoy overcoming challenges, and I have a gen
 
 2021 \| **Registration (Engineering Technologist)** \| Engineers Australia
 
-**SKILLS, EXPERIENCE, AND ATTRIBUTES**
+## SKILLS, EXPERIENCE, AND ATTRIBUTES
 
 **Project**
 
@@ -88,15 +86,15 @@ completion. I am eager to learn, I enjoy overcoming challenges, and I have a gen
 -   **Embedded devices:** Microchip and ARM STM32
 -   **Linux:** Raspberry Pi Compute, Atmel (SAMA5D3), and Friendly Arm (MINI2451)
 -   **Peripherals:** I2C, SPI, PLD, PWM, UART, ADC, DAC
--   **Programming:** C, C\#, WPF, C++, Python, PHP, JS, NODE RED
+-   **Programming:** C, C++, C\#, WPF,Python, PHP, JS, NODE RED
 -   **Data:** TCP/IP, UDP, MQTT, MODBUS, HTML, BACNET, SQL, SQLite, JSON, XML, NMEA, PPP, TLS, AES, ZWAVE, LORA
 -   **Industrial:** UPS, PLC, VSD, Flowmeters, Temperature Sensors, SCADA
 -   **Other:** JOSM, Virtual Machines, SVN, CAD, Lora, KICAD, Wireshark, Blender, Inkscape
 
-**Personal Interests and Activities**
+## Personal Interests and Activities
 
 -   Family time, Surfing, and Graphic Design
 
-**Reference**
+## Reference
 
 Available on request and dependent on the specific role.
