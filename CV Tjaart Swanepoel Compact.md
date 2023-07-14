@@ -2,11 +2,11 @@
 
 **PERSONAL INFORMATION**
 
-Skype: live: tjaart55  
-Phone: (+64) 210675101  
-LinkedIn: <http://www.linkedin.com/in/tjaart-swanepoel-tsw>  
-Website: <https://sites.google.com/view/tjaartportfolio/home>  
-Residency status: Australian Permanent Resident  
+**Skype**: live: tjaart55  
+**Phone**: (+64) 210675101  
+**LinkedIn**: <http://www.linkedin.com/in/tjaart-swanepoel-tsw>  
+**Website**: <https://sites.google.com/view/tjaartportfolio/home>  
+**Residency status**: Australian Permanent Resident  
 
 **ABOUT ME**
 
