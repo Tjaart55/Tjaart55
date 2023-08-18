@@ -3,9 +3,6 @@
 **PERSONAL INFORMATION**
 
 **Email**: tjs.swanepoel@gmail.com  
-**Skype**: live: tjaart55  
-**Phone**: (+64) 210675101  
-**Residency status**: Australian Permanent Resident  
 [Website](<http://www.linkedin.com/in/tjaart-swanepoel-tsw> ) | [LinkedIn](<https://sites.google.com/view/tjaartportfolio/home>)  
 
 ## ABOUT ME 
