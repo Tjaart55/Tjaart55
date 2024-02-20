@@ -1,4 +1,4 @@
-00# Tjaart Swanepoel
+# Tjaart Swanepoel
 
 **PERSONAL INFORMATION**
 
