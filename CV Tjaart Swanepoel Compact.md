@@ -11,11 +11,11 @@ Experienced product developer with a strong background in engineering, hardware,
 
 ## EXPERIENCE
 
-**Senior Design Engineer \|UGL\|** - October 2023 - Present\| Melbourne, Australia 
+**Senior Design Engineer \| UGL \|** October 2023 - Present\| Melbourne, Australia 
 
 -  Projects and development as part of the train control systems team... 
 
-**Software Engineer \| Bathurst Resources Limited** - Feb 2023 – August 2023\| Westport, New Zealand
+**Software Engineer \| Bathurst Resources Limited** \| Feb 2023 – August 2023\| Westport, New Zealand
 
 -   Development of a comprehensive fleet management system for coal mines. The solution includes Linux, 32-bit controllers, JS, Node.js, and cm accurate GPS technologies. The system aims to create a safer and more productive environment for mine operators. The in-cab functionality includes real-time dig plan views, reporting, tracking, danger-area warnings, collision avoidance, and more.
 
