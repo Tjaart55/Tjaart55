@@ -1,4 +1,4 @@
-# Tjaart Swanepoel
+00# Tjaart Swanepoel
 
 **PERSONAL INFORMATION**
 
@@ -87,7 +87,7 @@ Experienced product developer with a strong background in engineering, hardware,
 -   **Embedded devices:** Microchip and ARM STM32
 -   **Linux:** Raspberry Pi Compute, Atmel (SAMA5D3), and Friendly Arm (MINI2451)
 -   **Peripherals:** I2C, SPI, PLD, PWM, UART, ADC, DAC
--   **Programming:** C, C++, C\#, WPF,Python, PHP, JS, NODE RED
+-   **Programming:** C, C++, C\#, WPF, Python, PHP, JS, NODE RED
 -   **Data:** TCP/IP, UDP, MQTT, MODBUS, HTML, BACNET, SQL, SQLite, JSON, XML, NMEA, PPP, TLS, AES, ZWAVE, LORA
 -   **Industrial:** UPS, PLC, VSD, Flowmeters, Temperature Sensors, SCADA
 -   **Other:** JOSM, Virtual Machines, SVN, CAD, Lora, KICAD, Wireshark, Blender, Inkscape
