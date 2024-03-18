@@ -52,7 +52,7 @@ I completed this demonstration to show my understanding of JS, HTML, MQTT, JSON,
 ## GIT and GitHub 
 
 - Project and product tracking, software backup, team software integration, automated software deployment, project and product planning, and project and product execution
-- Good background information on Systems Engineering and Agile methodologies
+- Knowledge of Systems Engineering and Agile methodologies
 
 
 # Contact Me
