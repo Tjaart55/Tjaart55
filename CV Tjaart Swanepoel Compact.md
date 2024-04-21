@@ -17,7 +17,7 @@ Experienced product developer with a strong background in engineering, hardware,
 
 **Software Engineer \| Bathurst Resources Limited** \| Feb 2023 – August 2023\| Westport, New Zealand
 
--   Development of a comprehensive fleet management system for coal mines. The solution includes Linux, 32-bit controllers, JS, Node.js, and cm accurate GPS technologies. The system aims to create a safer and more productive environment for mine operators. The in-cab functionality includes real-time dig plan views, reporting, tracking, danger-area warnings, collision avoidance, and more.
+-   Development of a comprehensive fleet management system used at coal mines. The solution includes Linux, 32-bit controllers, JS, Node.js, and differential GPS technologies. The system aims to create a safer and more productive environment for mine operators. The in-cab functionality includes real-time dig plan views, reporting, tracking, danger-area warnings, collision avoidance, and more.
 
 **Development Engineer \| Radio Data Communications** - March 2019 – Dec 2022 \| Edenvale, South Africa
 
