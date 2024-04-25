@@ -14,7 +14,7 @@
 - Automated software deployment after release or tag
 - Project and product planning and execution
 - Knowledge of Systems Engineering and Agile methodologies
-- Application Knowledge: Rail, Mining, Process Instrumentation, Home security
+- Application Knowledge: Rail, Mining, Process Instrumentation, and Home security
 
 # Hardware
 
