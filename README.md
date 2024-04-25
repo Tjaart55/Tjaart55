@@ -6,6 +6,35 @@
 - I will update this page on a regular basis, please check in again for more 
 
 
+ # Project and Product experience 
+
+- Functional and requirements specification
+- Project and product tracking
+- Software backup and integration with team members (GIT AND SVN)
+- Automated software deployment after release or tag
+- Project and product planning and execution
+- Knowledge of Systems Engineering and Agile methodologies
+- Application Knowledge: Rail, Mining, Process Instrumentation, Home security
+
+# Hardware
+
+## Linux Single Board Computers (SBCs) 
+ - I am able to deliver complex applications that run on Linux
+ - I am familiar with writing and maintaining code in the Qt IDE
+ - I am confident in developing cross-platform UI applications using [C# monodevelop](https://www.monodevelop.com/)
+ - I am confident in developing web applications that run on most SBCs with [Node-RED](https://nodered.org/)
+ - I also have experience working with the following Linux hardware platforms:
+      - [Friendly Arm User Manual](https://drive.google.com/file/d/1oycAqawBP5LXR2k4kznN_pqpRAKSmaE2/view?usp=sharing)
+      - [SAMA5AD3](https://drive.google.com/file/d/1eLe5A3R8QMKqDcHl8vZGrN2RFSmSkYRA/view?usp=sharing)
+      - [Raspberry Pi Compute](https://www.raspberrypi.com/products/compute-module-4/?variant=raspberry-pi-cm4001000)
+      - Looking forward to gaining more experience in this field e.g. Beagle Bone, Union Omega...
+  
+## Micro Controllers
+- I am able to deliver complex applications that run on microcontroller devices from 8 bit to 32bit
+- I am familiar with writing and maintaining code in C and C++
+- I have worked with STM32 ARM devices and smaller microchip devices
+- I have practical experience with these peripherals: I2C, SPI, Serial, PMW, ADC, DAC, and PLD (Programmable logic block) 
+
 # Software Demo
 I am posting content here to demonstrate some of my skills and abilities.  
 
@@ -35,24 +64,7 @@ I completed this demonstration to show my understanding of JS, HTML, MQTT, JSON,
 - [Profile](https://youtu.be/dQmrBmqwTiQ)
 - [2D Graphics](https://youtu.be/H3IljpnrgXU)
 - [3D Graphics](https://youtu.be/YwQEI-VfYTQ)
-
-# Other Skills
-
-## Linux Single Board Computers (SBCs) 
- - I am able to deliver complex applications that run on Linux
- - I am familiar with writing and maintaining code in the Qt IDE
- - I am confident in developing cross-platform UI applications using [C# monodevelop](https://www.monodevelop.com/)
- - I am confident in developing web applications that run on most SBCs with [Node-RED](https://nodered.org/)
- - I also have experience working with the following Linux hardware platforms:
-      - [Friendly Arm User Manual](https://drive.google.com/file/d/1oycAqawBP5LXR2k4kznN_pqpRAKSmaE2/view?usp=sharing)
-      - [SAMA5AD3](https://drive.google.com/file/d/1eLe5A3R8QMKqDcHl8vZGrN2RFSmSkYRA/view?usp=sharing)
-      - [Raspberry Pi Compute](https://www.raspberrypi.com/products/compute-module-4/?variant=raspberry-pi-cm4001000)
-      - Looking forward to gaining more experience in this field e.g. Beagle Bone, Union Omega...
-      
-## GIT and GitHub 
-
-- Project and product tracking, software backup, team software integration, automated software deployment, project and product planning, and project and product execution
-- Knowledge of Systems Engineering and Agile methodologies
+   
 
 
 # Contact Me
