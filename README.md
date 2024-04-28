@@ -10,7 +10,7 @@
 
 - Functional and requirements specification
 - Project and product tracking
-- Software backup and integration with team members (GIT AND SVN)
+- Software backup and integration with GIT AND SVN. 
 - Automated software deployment after release or tag
 - Project and product planning and execution
 - Knowledge of Systems Engineering and Agile methodologies
