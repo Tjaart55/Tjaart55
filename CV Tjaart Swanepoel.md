@@ -11,13 +11,13 @@ Experienced product developer with a strong background in engineering, hardware,
 
 ## EXPERIENCE
 
-**Senior Design Engineer \| UGL \|** October 2023 - Present\| Melbourne, Australia 
+**Senior Design Engineer \| UGL \|** November 2023 - Present\| Melbourne, Australia 
 
 -  As a senior design engineer at UGL, I expanded on my knowledge of systems engineering and I used these skills and principles to guide me through projects from start to end. While working as a member of UGL’s train control systems team, I delivered technical documentation and relied on my technical background to successfully deliver UGL’s train control system across Australia.
 
 -  The skills required to be successful in my roll involved knowledge in the following key areas; project engineering, railway principles, computer networking, application programming, and communications systems.
 
-**Software Engineer \| Bathurst Resources Limited** \| Feb 2023 – August 2023\| Westport, New Zealand
+**Software Engineer \| Bathurst Resources Limited** \| Feb 2023 – September 2023\| Westport, New Zealand
 
 -   During my time at the mine I formed part of the development team working on a comprehensive mining fleet management solution for coal mines. The solution included Linux, 32-bit controllers, JS, Node.js, and differential GPS technologies. The system aims to create a safer and more productive environment for mine operators. The in-cab functionality of the system included real-time dig plan views, reporting, tracking, danger-area visualisation, collision avoidance, and more.
 
