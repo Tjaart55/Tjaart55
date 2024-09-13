@@ -42,7 +42,7 @@ Experienced product developer with a strong background in engineering, hardware,
 -   Programming and setup of VSDs, UPSs, PLCs, and network devices
 -   Projects included -- train yard automation, axle counter design, level-crossings diagnostics system, and a train authorisation system.
 
-**Instrumentation Technician \| Exxaro** - 1 Feb 2012 to 30 Feb 2012 \| Pretoria, South Africa
+**Instrumentation Technician \| Exxaro** - 1 Feb 2012 to 29 Feb 2012 \| Pretoria, South Africa
 
 -   A temporary role where I aided in the commissioning of an ABB distributed control system and a SCADA system coupled to an induction furnace
 -   Installed and tested temperature sensors, flow meters, and pressure sensors
