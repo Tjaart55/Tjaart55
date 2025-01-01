@@ -21,7 +21,7 @@ At Hexagon I deliver technical support for complex products used in the mining e
 
 -  The skills required to be successful in my roll involved knowledge in the following key areas; project engineering, railway principles, computer networking, application programming, and communications systems.
 
-**Software Engineer \| Bathurst Resources Limited** \| Feb 2023 – September 2023\| Westport, New Zealand
+**Software Engineer \| Bathurst Resources Limited** \| Feb 2023 – September 2023 \| Westport, New Zealand
 
 -   During my time at the mine I formed part of the development team working on a comprehensive mining fleet management solution for coal mines. The solution included Linux, 32-bit controllers, JS, Node.js, and differential GPS technologies. The system aims to create a safer and more productive environment for mine operators. The in-cab functionality of the system included real-time dig plan views, reporting, tracking, danger-area visualisation, collision avoidance, and more.
 
