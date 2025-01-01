@@ -11,7 +11,11 @@ Experienced product developer with a strong background in engineering, hardware,
 
 ## EXPERIENCE
 
-**Senior Design Engineer \| UGL \|** November 2023 - Present\| Melbourne, Australia 
+**Safety Project Engineer \| Hexagon \|** October 2024 - Present \| Brisbane, Australia 
+
+At Hexagon I deliver technical support for complex products used in the mining environment. Daily tasks include Linux server and client administration, network administration, testing, delivering training, and resolving customer support tickets.
+
+**Senior Design Engineer \| UGL \|** November 2023 - October 2024 \| Melbourne, Australia 
 
 -  As a senior design engineer at UGL, I expanded on my knowledge of systems engineering and I used these skills and principles to guide me through projects from start to end. While working as a member of UGL’s train control systems team, I delivered technical documentation and relied on my technical background to successfully deliver UGL’s train control system across Australia.
 
